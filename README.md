@@ -2,7 +2,7 @@
 This repository documents my individual contributions to a collaborative academic project. The original source code is not publicly available due to course/project restrictions.
 
 ## Play the Game
-> 	[Click to play](cores-frontend.vercel.app)
+cores-frontend.vercel.app
 
 ## Project Overview
 The game, Cores, allows players to create profiles, join game lobbies, select decks, and participate in real-time card battles. It takes the complex features of traditional trading card games and turns it less complex and simple.  The frontend was built with React and TypeScript, with Supabase used for authentication and backend services. The application also includes a custom game engine responsible for managing game state, player actions, and gameplay logic.
