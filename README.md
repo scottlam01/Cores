@@ -1,5 +1,6 @@
 # Cores
-This repository documents my individual contributions to a collaborative academic project. The original source code is not publicly available due to course/project restrictions.
+> [!NOTE]
+> This repository documents my individual contributions to a collaborative academic project. The original source code is not publicly available due to course/project restrictions.
 
 ## Play the Game
 cores-frontend.vercel.app
